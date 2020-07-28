@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+    height: 1000px;
+}
+h3{
+    font-weight: 500;
+    color: #562EFF;
+}
+.header-bg{
+    background: #562EFF;
+}
+.navbar img{
+    width: 38px;
+    margin-top: -5px;
+}
+main{
+    background-color: white;
+    height: 679px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.top-player img{
+    width: 56px;
+}
+hr{
+    width: 807px;
+    height: 0px;
+    border: 1px solid #D1D1D1;
+}
+.top-blog img{
+    width: 177px;
+}
+.top-blog h4{
+    font-weight: 500;
+}
+.top-blog a{
+    text-decoration: none;
+}
+.top-blog span{
+    color: #9F9F9F;
+}
+.course-section{
+    background-color: #fff;
+    height: 420px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+
+.checked {
+    color: orange;
+}
+.clock-design img{
+    width: 22px;
+}
+.card-img-top{
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 300px;
+    height: 130px;
+}
+.time-bg{
+    background: #FFE4E8;
+    border-radius: 14px;
+}
+.course-section .card{
+    height: 320px;
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card p{
+    color: #ED6B4F;;
+}
